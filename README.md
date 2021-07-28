@@ -1,5 +1,5 @@
 # CinemaRepo
 
 <p>
-  <img src="">
+  <img src="osca.jpeg">
 </p>
