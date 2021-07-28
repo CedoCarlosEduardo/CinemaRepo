@@ -1,5 +1,5 @@
 # CinemaRepo
 
-<p>
+<p aligner="center">
   <img src="osca.jpeg">
 </p>
